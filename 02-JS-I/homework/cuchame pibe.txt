@@ -1,0 +1,21 @@
+* Variables
+
+	son numeros, texto, o cualquier cosa que despues quieras referenciar. queres variables porque queres hacer algo con eso independientemente de que valor tenga en ese momento, porque viste que las variables pueden ir variando, eso es mucho muy importante
+
+* Strings
+	string en ingles, entre otras cosas, es cadena. en programacion vendria siendo cadena de caracteres. osea, texto.
+
+* Funciones (argumentos, `return`)
+	cuando haces muchas veces lo mismo, para no escribirlo 69420 veces, lo escribis 1 vez, en forma de funcion, y cada vez q lo queres hacer pones el nombre de la funcion y abris y cerras parentesis.
+	las funciones existen en una especie de burbuja, y a veces vas a querer hacer algo con una variable que no esta en la funcion, entonces le tenes q escribir la variable en los parentesis.
+	lo que va en esos parentesis se llama argumento/s. si no usas argumentos TENES QUE PONER LOS PARENTESIS IGUAL, asi sin nada.
+	cuando llamas una funcion, ademas de hacer lo que tiene que hacer, hace como si en vez de haber escrito la funcion, hayas escrito lo que devuelve la funcion. tonce lo q queres que devuelva lo pones despues de un return. el return tambien 'sale' de la funcion, la interrumpe, ignora lo que pasa despues del return.
+
+* Declaraciones `if`
+
+	para decirle a la maquina "si pasa esto, tiene que pasar lo otro" le decis if(pasa_esto) {pasa_lo_otro}
+	lo que esta entre parentesis es tiene que dar un valor booleano y lo que esta entre llaves o como se llamen estos {} es el codigo que se va a ejecutar cuando () sea verdadero
+
+* Valores booleanos (`true`, `false`)
+
+	valor booleano es un valor que solo puede ser verdadero 'true' o falso 'false'. por eso lo usa if, porque necesita una respuesta concreta a "¿Lo hago o no lo hago?"
