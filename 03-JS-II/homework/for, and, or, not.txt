@@ -1,0 +1,14 @@
+for
+se usa así: for(´inicializas una variable, o usas una q ya tengas´;´condicion para que se repita el bucle, me parece que funciona igual a una condicion para if´;´lo que pasa al finalizar la iteracion, generalmente incrementar o decrementar la variable de la primera parte´)
+y al principio se suele usar así: for(var i = 0; i <= vecesQQueresQSeRepita; i++)
+despues del for() pones entre {} lo que queres que pase en cada iteracion
+lo loco es que, al menos en c++ donde aprendi yo el for, podes poner for(;;) y tenes un bucle infinito. osea, es como un ´podes, si queres, inicializar una variable, etc, etc´ como q no es necesario
+
+&&
+hace AND para las condiciones. ej. if(´cosa1 es true´ Y ´cosa2 TAMBIEN es true´) {hago esto}
+
+||
+OR. ej. if(´cosa1 es true´ O ´cosa2 es true, cualquiera de las dos´) {tuqui tuqui}
+
+!
+hace NOT, o da vuelta lo que le digas. osea, !true = false y !false = true
