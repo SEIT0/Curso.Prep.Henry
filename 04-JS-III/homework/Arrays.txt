@@ -1,0 +1,5 @@
+Arrays
+algo asi como 'fila' o 'lista' en ingles, los arrays son colecciones de cosas con un nombre. si una variable es una cajita con un valor adentro, un array es una cajita con variables adentro
+se declaran asi: nombreArray [var coso, 'coso2', 3] <-- pueden tener cualquier tipo de variable
+se referencian como a cualquier otra variable
+se accede/referecia a sus miembros asi: nombreArray[´index´] siendo ´index´ el orden, ie. 0 es el primer miembro, 1 el segundo y asi
