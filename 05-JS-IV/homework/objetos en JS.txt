@@ -1,0 +1,11 @@
+Objetos:
+son bloques de codigo con nombre, o arrays con indices mas complejos. es que pueden tener lo que se te ocurra
+Propiedades:
+pueden ser variables, funciones, lo que quieras. se definen asi -> Key:Value y se refieren/acceden asi -> object.key haciendo como si hubieras escrito value
+Métodos:
+al menos en javascript, es lo mismo que una función. function(parameters){code} y se llama function(arguments)
+for...in:
+for, ahora para objetos! -> for(variable x in objeto){} va a iterar por todas las keys que tenga objeto, y las podemos referenciar dentro del for con x, la variable que hayamos hecho en el parentesis
+Notación de puntos vs notación de corchetes:
+la notación de puntos sirve para referenciar el value que haya en una key que haya en un objeto (objeto.key -> value) pero la key tiene que ser literal, ya que el interprete busca la propiedad key. osea, objeto.EL_NOMBRE_DE_LA_PROPIEDAD.
+la notación de corchetes me permite acceder a propiedades o variables, y modificarlas. puede ser objeto['nombreDePropiedad'] u objeto[variable_cuyo_valor_contiene_nombreDePropiedad]
