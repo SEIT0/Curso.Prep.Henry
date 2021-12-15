@@ -1,0 +1,5 @@
+prototype
+es la forma que tiene javascript de establecer métodos en una clase. va así: Clase.prototype.nuevoMetodo = function(parametros){codigo}
+
+constructores
+construyen :v el objeto que vas a hacer con la clase. son funciones de la clase, y generalmente toman parametros donde pones los valores de las propiedades principales del objeto
