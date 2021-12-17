@@ -1,0 +1,3 @@
+Callback
+son funciones que se usan de parametro para otras funciones
+por ejemplo, si una funcion sellar toma (parametro) un papel, lo sella y lo devuelve, otra funcion que use de parametro el papel sellado podria usar la primer funcion como callback
